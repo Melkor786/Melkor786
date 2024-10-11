@@ -26,20 +26,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center" style="display: flex; gap: 20px;">
-  <a href="https://twitter.com/abhiman57790348" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Twitter Abhimanyu Yadav"
-      height="30"
-      width="40"
-    />
-  </a>
-<!--   <a href="https://linkedin.com/in/abhimanyu-yadav-21459b226" target="blank">
+  <a href="https://linkedin.com/in/abhimanyu-yadav-21459b226" target="blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn Abhimanyu Yadav"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <!--   <a href="https://twitter.com/abhiman57790348" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Twitter Abhimanyu Yadav"
       height="30"
       width="40"
     />
